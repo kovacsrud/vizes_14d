@@ -1,2 +1,2 @@
 # vizes_14d
-React App
+React App A vizes adatbázis alapján
