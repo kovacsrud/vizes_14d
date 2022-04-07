@@ -6,7 +6,7 @@ function Header() {
             Vízállás
         </div>
         <div className="text-md text-sky-100 mx-2 basis-48">
-            Tisza menti városok vízállás értékei
+            Tisza menti városok vízállás értékeinek megjelenítése
         </div>
 
     </div>

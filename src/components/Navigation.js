@@ -8,7 +8,7 @@ function Navigation() {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal p-0 text-sky-900">
-      <li><NavLink to={'/vizallas'}>Vízállás lekérdezés</NavLink></li>
+      <li><NavLink to={'/vizallas'}>Vízállás lekérdezése</NavLink></li>
       <li><NavLink to={'/igazgatosag'}>Igazgatóságok</NavLink></li>
     </ul>
   </div>
