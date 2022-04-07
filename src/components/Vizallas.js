@@ -13,7 +13,7 @@ function Vizallas() {
 
   return (
    
-    <div className='py-5'>
+    <div className='py-6'>
       <div className='flex flex-row items-center justify-center'>
         <div className='mx-2'><input onChange={(e)=>setVaros(e.target.value)} type="text" placeholder="Város neve" className="input w-full max-w-xs" /></div>
         <div className='mx-2'><button onClick={()=>keres()} className="btn btn-ghost">Keresés</button></div>
@@ -28,5 +28,6 @@ function Vizallas() {
     </div>
   )
 }
+
 
 export default Vizallas;
