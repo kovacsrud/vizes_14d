@@ -13,7 +13,7 @@ function Igazgatosag() {
 
   return (
     <div>
-      <h1 className='text-5xl my-5 text-center'>Vízügyi igazgatóságok</h1>
+      <h1 className='text-5xl my-5 text-center'>Vízügyi igazgatóságok listája</h1>
       <div className='grid sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-2 justify-items-stretch'>
         {
           ig.map((elem)=>(
